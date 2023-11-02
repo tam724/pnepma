@@ -1,0 +1,12 @@
+name = "StaRMAP"
+uuid = "a9bf0a84-7f34-4e35-997e-90a7f8fa4d21"
+authors = ["Tamme Claus <tamme.claus@rwth-aachen.de>"]
+version = "0.1.0"
+
+[deps]
+Distributions = "31c24e10-a181-5473-b8eb-7969acd0382f"
+FillArrays = "1a297f60-69ca-5386-bcde-b61e274b549b"
+LinearAlgebra = "37e2e46d-f89d-539d-b4ee-838fcccc9c8e"
+LuxurySparse = "d05aeea4-b7d4-55ac-b691-9e7fabb07ba2"
+SparseArrays = "2f01184e-e22b-5df5-ae63-d93ebab69eaf"
+StaticArrays = "90137ffa-7385-5640-81b9-e52037218182"
